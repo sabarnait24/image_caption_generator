@@ -11,7 +11,7 @@ def main():
     st.write("- Natural Language Processing (NLP): Techniques from the field of NLP are employed to generate coherent and contextually relevant captions for the images.")
     
     st.subheader("Project URL:")
-    st.write("[YourProjectURL.com](#) - Created by [Author Name]")
+    st.write("[https://github.com/sabarnait24/image_caption_generator](https://github.com/sabarnait24/image_caption_generator) - Created by [Sabarna Bhowmik]")
     
     # st.write("Our team is dedicated to pushing the boundaries of computer vision and natural language understanding, aiming to provide accurate and insightful captions for a wide range of images. Join us on our journey to make AI-driven image understanding more accessible and intuitive.")
 
